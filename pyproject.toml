@@ -1,0 +1,9 @@
+[project]
+name = "asteroids-pygame"
+version = "0.1.0"
+description = "Asteroids built using pygame"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame==2.6.1",
+]
